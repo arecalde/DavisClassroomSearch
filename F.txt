@@ -1,0 +1,410 @@
+Art 217 Time gap: 9.1666666666667 to 10
+Art 217 Time gap: 10.166666666667 to 11
+Art 217 Time gap: 11.166666666667 to 12.166666666667
+Young Hall 194 Time gap: 9.1666666666667 to 13.166666666667
+Young Hall 194 Time gap: 14 to 16.166666666667
+Olson Hall 105 Time gap: 9.1666666666667 to 10
+Olson Hall 105 Time gap: 10.166666666667 to 11
+Olson Hall 105 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 25 Time gap: 8.1666666666667 to 10
+Wellman Hall 25 Time gap: 10.166666666667 to 11
+Wellman Hall 25 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 163 Time gap: 8.1666666666667 to 09
+Olson Hall 163 Time gap: 9.1666666666667 to 10
+Olson Hall 163 Time gap: 10.166666666667 to 11
+Olson Hall 163 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 27 Time gap: 9.1666666666667 to 10
+Wellman Hall 27 Time gap: 10.166666666667 to 11
+Wellman Hall 27 Time gap: 11.166666666667 to 12.166666666667
+Hart Hall 1120 Time gap: 8.1666666666667 to 09
+Hart Hall 1120 Time gap: 9.1666666666667 to 10
+Hart Hall 1120 Time gap: 10.166666666667 to 11
+Hart Hall 1120 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 202 Time gap: 8.1666666666667 to 09
+Wellman Hall 202 Time gap: 9.1666666666667 to 10
+Wellman Hall 202 Time gap: 10.166666666667 to 11
+Wellman Hall 202 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 7 Time gap: 8.1666666666667 to 09
+Wellman Hall 7 Time gap: 9.1666666666667 to 10
+Wellman Hall 7 Time gap: 10.166666666667 to 11
+Wellman Hall 7 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 203 Time gap: 10.166666666667 to 12.166666666667
+Haring Hall 1204 Time gap: 9.1666666666667 to 11
+Haring Hall 1204 Time gap: 11.166666666667 to 12.166666666667
+Haring Hall 1204 Time gap: 15 to 16.166666666667
+Sciences Lecture Hall 123 Time gap: 8.1666666666667 to 09
+Sciences Lecture Hall 123 Time gap: 9.1666666666667 to 10
+Sciences Lecture Hall 123 Time gap: 10.166666666667 to 11
+Sciences Lecture Hall 123 Time gap: 11.166666666667 to 12.166666666667
+Sciences Lecture Hall 123 Time gap: 16 to 17.166666666667
+Olson Hall 223 Time gap: 9.1666666666667 to 11
+Wellman Hall 107 Time gap: 8.1666666666667 to 09
+Wellman Hall 107 Time gap: 9.1666666666667 to 10
+Wellman Hall 107 Time gap: 10.166666666667 to 11
+Wellman Hall 107 Time gap: 11.166666666667 to 12.166666666667
+Chemistry 166 Time gap: 9.1666666666667 to 10
+Chemistry 166 Time gap: 10.166666666667 to 11
+Chemistry 166 Time gap: 11.166666666667 to 12.166666666667
+Chemistry 166 Time gap: 13.5 to 16.166666666667
+Off Campus  Time gap: 10.166666666667 to 15.25
+Hart Hall 1150 Time gap: 9.1666666666667 to 12.166666666667
+Hutchison Hall 115 Time gap: 10.166666666667 to 11
+Everson Hall 176 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 234 Time gap: 10.166666666667 to 11
+Wellman Hall 234 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 234 Time gap: 14 to 16.166666666667
+Hart Hall 1128 Time gap: 9.1666666666667 to 10
+Hart Hall 1128 Time gap: 10.166666666667 to 11
+Hart Hall 1128 Time gap: 11.166666666667 to 12.166666666667
+Giedt 1002 Time gap: 8.1666666666667 to 10
+Giedt 1002 Time gap: 10.166666666667 to 11
+Giedt 1002 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 205 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 158 Time gap: 9.1666666666667 to 13.166666666667
+Storer Hall 1342 Time gap: 8.1666666666667 to 09
+Storer Hall 1342 Time gap: 9.1666666666667 to 10
+Storer Hall 1342 Time gap: 10.166666666667 to 11
+Storer Hall 1342 Time gap: 11.166666666667 to 12.166666666667
+Max Kleiber Hall 3 Time gap: 9.1666666666667 to 10
+Max Kleiber Hall 3 Time gap: 10.166666666667 to 11
+Max Kleiber Hall 3 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 101 Time gap: 8.1666666666667 to 09
+Olson Hall 101 Time gap: 9.1666666666667 to 10
+Olson Hall 101 Time gap: 10.166666666667 to 11
+Olson Hall 101 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 207 Time gap: 8.1666666666667 to 10
+Olson Hall 207 Time gap: 10.166666666667 to 11
+Olson Hall 207 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 251 Time gap: 10.166666666667 to 11
+Olson Hall 251 Time gap: 11.166666666667 to 12.166666666667
+Hoagland Hall 113 Time gap: 9.1666666666667 to 10
+Hoagland Hall 113 Time gap: 10.166666666667 to 11
+Hoagland Hall 113 Time gap: 11.166666666667 to 12.166666666667
+Hoagland Hall 113 Time gap: 14 to 18.166666666667
+Wellman Hall 229 Time gap: 9.1666666666667 to 10
+Wellman Hall 229 Time gap: 10.166666666667 to 11
+Wellman Hall 229 Time gap: 11.166666666667 to 12.166666666667
+Cruess Hall 107 Time gap: 9.1666666666667 to 10
+Cruess Hall 107 Time gap: 10.166666666667 to 11
+Cruess Hall 107 Time gap: 11.166666666667 to 13.166666666667
+Cruess Hall 107 Time gap: 14 to 15.166666666667
+Young Hall 192 Time gap: 9.1666666666667 to 10
+Young Hall 192 Time gap: 10.166666666667 to 11
+Young Hall 192 Time gap: 11.166666666667 to 12.166666666667
+Young Hall 192 Time gap: 13 to 14.166666666667
+Young Hall 184 Time gap: 11.166666666667 to 12.166666666667
+Young Hall 184 Time gap: 15 to 16.166666666667
+Wellman Hall 115 Time gap: 9.1666666666667 to 10
+Wellman Hall 115 Time gap: 10.166666666667 to 11
+Wellman Hall 115 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 6 Time gap: 9.1666666666667 to 12.166666666667
+Wellman Hall 6 Time gap: 13 to 14.166666666667
+Social Science & Humanities 1100 Time gap: 8.1666666666667 to 09
+Social Science & Humanities 1100 Time gap: 9.1666666666667 to 10
+Social Science & Humanities 1100 Time gap: 10.166666666667 to 11
+Social Science & Humanities 1100 Time gap: 11.166666666667 to 12.166666666667
+Meyer Hall 1131 Time gap: 9.1666666666667 to 10
+Meyer Hall 1131 Time gap: 11.166666666667 to 13.166666666667
+Wickson Hall 1020 Time gap: 8.1666666666667 to 09
+Wickson Hall 1020 Time gap: 9.1666666666667 to 10
+Wickson Hall 1020 Time gap: 10.166666666667 to 11
+Wickson Hall 1020 Time gap: 11.166666666667 to 12.166666666667
+Dairy  Time gap: 7.1666666666667 to 09
+Dairy  Time gap: 11.166666666667 to 16.166666666667
+Art 204 Time gap: 9.1666666666667 to 11
+Art 204 Time gap: 11.166666666667 to 14.166666666667
+Giedt 1007 Time gap: 8.1666666666667 to 09
+Giedt 1007 Time gap: 9.1666666666667 to 10
+Giedt 1007 Time gap: 10.166666666667 to 11
+Giedt 1007 Time gap: 11.166666666667 to 12.166666666667
+Haring Hall 1227 Time gap: 9.1666666666667 to 14.166666666667
+Wellman Hall 233 Time gap: 8.1666666666667 to 09
+Wellman Hall 233 Time gap: 9.1666666666667 to 10
+Wellman Hall 233 Time gap: 10.166666666667 to 11
+Wellman Hall 233 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 2 Time gap: 8.1666666666667 to 09
+Wellman Hall 2 Time gap: 9.1666666666667 to 10
+Wellman Hall 2 Time gap: 10.166666666667 to 11
+Wellman Hall 2 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 2 Time gap: 13 to 14.166666666667
+Wellman Hall 2 Time gap: 16 to 18.166666666667
+Wellman Hall 105 Time gap: 8.1666666666667 to 09
+Wellman Hall 105 Time gap: 9.1666666666667 to 10
+Wellman Hall 105 Time gap: 10.166666666667 to 11
+Wellman Hall 105 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 151 Time gap: 9.1666666666667 to 10
+Olson Hall 151 Time gap: 10.166666666667 to 12.166666666667
+Olson Hall 151 Time gap: 13 to 14.166666666667
+Olson Hall 159 Time gap: 9.1666666666667 to 10
+Olson Hall 159 Time gap: 10.166666666667 to 11
+Olson Hall 159 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 159 Time gap: 15 to 16.166666666667
+Wellman Hall 127 Time gap: 8.1666666666667 to 09
+Wellman Hall 127 Time gap: 9.1666666666667 to 10
+Wellman Hall 127 Time gap: 10.166666666667 to 11
+Wellman Hall 127 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 103 Time gap: 8.1666666666667 to 09
+Wellman Hall 103 Time gap: 9.1666666666667 to 10
+Wellman Hall 103 Time gap: 10.166666666667 to 11
+Wellman Hall 103 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 244 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 206 Time gap: 9.1666666666667 to 12.166666666667
+Young Hall 302 Time gap: 10.166666666667 to 11
+Young Hall 302 Time gap: 11.166666666667 to 12.166666666667
+Chemistry 179 Time gap: 9.1666666666667 to 10
+Chemistry 179 Time gap: 10.166666666667 to 11
+Chemistry 179 Time gap: 11.166666666667 to 14.166666666667
+Wellman Hall 207 Time gap: 9.1666666666667 to 10
+Wellman Hall 207 Time gap: 10.166666666667 to 11
+Wellman Hall 207 Time gap: 11.166666666667 to 12.166666666667
+Veihmeyer Hall 116 Time gap: 10.166666666667 to 11
+Veihmeyer Hall 116 Time gap: 11.166666666667 to 12.166666666667
+Veihmeyer Hall 116 Time gap: 16 to 17.166666666667
+Storer Hall 1322 Time gap: 8.1666666666667 to 11
+Storer Hall 1322 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 6 Time gap: 14 to 15.166666666667
+Bainer Hall 1060 Time gap: 9.1666666666667 to 10
+Bainer Hall 1060 Time gap: 10.166666666667 to 11
+Bainer Hall 1060 Time gap: 11.166666666667 to 12.166666666667
+Chemistry 176 Time gap: 8.1666666666667 to 09
+Chemistry 176 Time gap: 9.1666666666667 to 10
+Chemistry 176 Time gap: 10.166666666667 to 11
+Chemistry 176 Time gap: 11.166666666667 to 13.166666666667
+Physics Building 140 Time gap: 9.1666666666667 to 10
+Physics Building 140 Time gap: 10.166666666667 to 12.166666666667
+Storer Hall 1344 Time gap: 9.1666666666667 to 10
+Storer Hall 1344 Time gap: 10.166666666667 to 11
+Storer Hall 1344 Time gap: 11.166666666667 to 13.666666666667
+Genome & Biomed. Sciences Fac.  Time gap: 9 to 12.166666666667
+Wellman Hall 129 Time gap: 9.1666666666667 to 10
+Wellman Hall 129 Time gap: 10.166666666667 to 11
+Wellman Hall 129 Time gap: 11.166666666667 to 12.166666666667
+Kerr Hall 293 Time gap: 9.1666666666667 to 10
+Kerr Hall 293 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 235 Time gap: 8.1666666666667 to 09
+Wellman Hall 235 Time gap: 9.1666666666667 to 10
+Wellman Hall 235 Time gap: 10.166666666667 to 11
+Wellman Hall 235 Time gap: 11.166666666667 to 12.166666666667
+Hunt 100 Time gap: 9.1666666666667 to 10
+Hunt 100 Time gap: 10.166666666667 to 11
+Olson Hall 227 Time gap: 8.1666666666667 to 09
+Olson Hall 227 Time gap: 9.1666666666667 to 10
+Olson Hall 227 Time gap: 10.166666666667 to 11
+Olson Hall 227 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 216 Time gap: 9.1666666666667 to 10
+Wellman Hall 216 Time gap: 10.166666666667 to 11
+Wellman Hall 216 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 205 Time gap: 8.1666666666667 to 09
+Wellman Hall 205 Time gap: 9.1666666666667 to 11
+Wellman Hall 205 Time gap: 11.166666666667 to 12.166666666667
+The Grove (Surge III) 1283 Time gap: 9.1666666666667 to 10
+The Grove (Surge III) 1283 Time gap: 10.166666666667 to 11
+The Grove (Surge III) 1283 Time gap: 11.166666666667 to 12.166666666667
+Hart Hall 1116 Time gap: 8.1666666666667 to 09
+Hart Hall 1116 Time gap: 9.1666666666667 to 10
+Hart Hall 1116 Time gap: 10.166666666667 to 11
+Hart Hall 1116 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 226 Time gap: 11.166666666667 to 12.166666666667
+The Grove (Surge III) 1309 Time gap: 10.166666666667 to 11
+The Grove (Surge III) 1309 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 250 Time gap: 10.166666666667 to 13.166666666667
+Wellman Hall 26 Time gap: 10.166666666667 to 11
+Wellman Hall 26 Time gap: 11.166666666667 to 12.166666666667
+Giedt 1003 Time gap: 9.1666666666667 to 10
+Giedt 1003 Time gap: 10.166666666667 to 11
+Giedt 1003 Time gap: 11.166666666667 to 12.166666666667
+Bainer Hall 1128 Time gap: 8.1666666666667 to 10
+Bainer Hall 1128 Time gap: 10.166666666667 to 11
+Bainer Hall 1128 Time gap: 11.166666666667 to 12.166666666667
+Hunt 110 Time gap: 9.1666666666667 to 10
+Hunt 110 Time gap: 10.166666666667 to 11
+Hunt 110 Time gap: 11.166666666667 to 12.166666666667
+Hunt 110 Time gap: 13 to 14.166666666667
+Olson Hall 261 Time gap: 9.1666666666667 to 10
+Olson Hall 261 Time gap: 10.166666666667 to 12.166666666667
+Olson Hall 261 Time gap: 13 to 14.166666666667
+Olson Hall 109 Time gap: 9.1666666666667 to 15.166666666667
+Hickey Gymnasium 290 Time gap: 9.1666666666667 to 11
+Hickey Gymnasium 290 Time gap: 11.166666666667 to 12.166666666667
+Hart Hall 1130 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 212 Time gap: 9.1666666666667 to 11
+Wellman Hall 212 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 3 Time gap: 11.166666666667 to 12.166666666667
+Roesler Hall 66 Time gap: 8.1666666666667 to 09
+Roesler Hall 66 Time gap: 10.333333333333 to 11
+Roesler Hall 66 Time gap: 11.166666666667 to 12.166666666667
+Hoagland Hall 124 Time gap: 10.166666666667 to 12.166666666667
+Hoagland Hall 108 Time gap: 9.1666666666667 to 10
+Hoagland Hall 108 Time gap: 10.166666666667 to 11
+Hoagland Hall 108 Time gap: 11.166666666667 to 13.166666666667
+Olson Hall 106 Time gap: 9.1666666666667 to 10
+Olson Hall 106 Time gap: 10.166666666667 to 11
+Olson Hall 106 Time gap: 11.166666666667 to 15.166666666667
+Bainer Hall 1130 Time gap: 9.1666666666667 to 10
+Bainer Hall 1130 Time gap: 10.166666666667 to 11
+Bainer Hall 1130 Time gap: 11.166666666667 to 12.166666666667
+Giedt 1006 Time gap: 9.1666666666667 to 10
+Giedt 1006 Time gap: 10.166666666667 to 11
+Giedt 1006 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 141 Time gap: 9.1666666666667 to 10
+Olson Hall 141 Time gap: 10.166666666667 to 11
+Olson Hall 141 Time gap: 11.166666666667 to 12.166666666667
+Physics Building 130 Time gap: 9.1666666666667 to 10
+Physics Building 130 Time gap: 10.166666666667 to 11
+Physics Building 130 Time gap: 11.166666666667 to 12.166666666667
+Bainer Hall 1070 Time gap: 9.1666666666667 to 10
+Hutchison Hall 102 Time gap: 8.1666666666667 to 09
+Hutchison Hall 102 Time gap: 9.1666666666667 to 10
+Hutchison Hall 102 Time gap: 10.166666666667 to 11
+Hutchison Hall 102 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 117 Time gap: 8.1666666666667 to 09
+Olson Hall 117 Time gap: 9.1666666666667 to 10
+Olson Hall 117 Time gap: 10.166666666667 to 11
+Olson Hall 117 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 117 Time gap: 15 to 16.166666666667
+Wellman Hall 211 Time gap: 9.1666666666667 to 10
+Wellman Hall 211 Time gap: 10.166666666667 to 11
+Wellman Hall 211 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 109 Time gap: 10.166666666667 to 11
+Wellman Hall 109 Time gap: 11.166666666667 to 13.166666666667
+California Hall 1100 Time gap: 8.1666666666667 to 09
+California Hall 1100 Time gap: 9.1666666666667 to 10
+California Hall 1100 Time gap: 10.166666666667 to 11
+California Hall 1100 Time gap: 11.166666666667 to 12.166666666667
+Peter A Rock Hall  Time gap: 8.1666666666667 to 09
+Peter A Rock Hall  Time gap: 9.1666666666667 to 10
+Peter A Rock Hall  Time gap: 10.166666666667 to 11
+Peter A Rock Hall  Time gap: 11.166666666667 to 12.166666666667
+Haring Hall 2205 Time gap: 9.1666666666667 to 10
+Haring Hall 2205 Time gap: 10.166666666667 to 11
+Haring Hall 2205 Time gap: 11.166666666667 to 12.166666666667
+Young Hall 198 Time gap: 9.1666666666667 to 10
+Young Hall 198 Time gap: 10.166666666667 to 11
+Young Hall 198 Time gap: 11.166666666667 to 12.166666666667
+Giedt 1001 Time gap: 8.1666666666667 to 09
+Giedt 1001 Time gap: 9.1666666666667 to 10
+Giedt 1001 Time gap: 10.166666666667 to 11
+Giedt 1001 Time gap: 11.166666666667 to 12.166666666667
+Scrub Oak Auditorium 160 Time gap: 9.1666666666667 to 11
+Bowley 101 Time gap: 10.166666666667 to 13.166666666667
+Bowley 109 Time gap: 10.166666666667 to 13.166666666667
+Life Science Addition 1022 Time gap: 11.166666666667 to 12.166666666667
+Life Science Addition 1022 Time gap: 13 to 14.166666666667
+Haring Hall 1262 Time gap: 9.1666666666667 to 10
+Haring Hall 1262 Time gap: 12.166666666667 to 13.166666666667
+Haring Hall 1262 Time gap: 16 to 17.166666666667
+Social Science & Humanities 80 Time gap: 8.1666666666667 to 09
+Social Science & Humanities 80 Time gap: 9.1666666666667 to 10
+Social Science & Humanities 80 Time gap: 10.166666666667 to 11
+Social Science & Humanities 80 Time gap: 11.166666666667 to 12.166666666667
+Social Science & Humanities 90 Time gap: 9.1666666666667 to 10
+Social Science & Humanities 90 Time gap: 10.166666666667 to 11
+Social Science & Humanities 90 Time gap: 11.166666666667 to 12.166666666667
+Social Science & Humanities 90 Time gap: 13 to 14.166666666667
+Wellman Hall 101 Time gap: 9.1666666666667 to 10
+Wellman Hall 101 Time gap: 10.166666666667 to 11
+Wellman Hall 101 Time gap: 11.166666666667 to 12.166666666667
+Physics Building 148 Time gap: 10.166666666667 to 11
+Physics Building 148 Time gap: 11.166666666667 to 12.166666666667
+Bainer Hall 1132 Time gap: 9.1666666666667 to 10
+Bainer Hall 1132 Time gap: 10.166666666667 to 11
+Bainer Hall 1132 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 267 Time gap: 8.1666666666667 to 12.166666666667
+Bainer Hall 1134 Time gap: 9.1666666666667 to 11
+Bainer Hall 1134 Time gap: 11.166666666667 to 12.166666666667
+Bainer Hall 1134 Time gap: 14 to 17.166666666667
+Wellman Hall 209 Time gap: 8.1666666666667 to 09
+Wellman Hall 209 Time gap: 9.1666666666667 to 10
+Wellman Hall 209 Time gap: 10.166666666667 to 11
+Wellman Hall 209 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 125 Time gap: 9.1666666666667 to 10
+Olson Hall 125 Time gap: 10.166666666667 to 11
+Olson Hall 125 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 125 Time gap: 13 to 14.166666666667
+Olson Hall 167 Time gap: 8.1666666666667 to 09
+Olson Hall 167 Time gap: 9.1666666666667 to 10
+Olson Hall 167 Time gap: 10.166666666667 to 11
+Olson Hall 167 Time gap: 11.166666666667 to 12.166666666667
+Robbins Hall 146 Time gap: 8.1666666666667 to 09
+Robbins Hall 146 Time gap: 9.1666666666667 to 10
+Robbins Hall 146 Time gap: 10.166666666667 to 11
+Robbins Hall 146 Time gap: 11.166666666667 to 12.166666666667
+Robbins Hall 146 Time gap: 13 to 15.166666666667
+Haring Hall 2016 Time gap: 10.333333333333 to 11
+Haring Hall 2016 Time gap: 11.166666666667 to 13.166666666667
+Haring Hall 2016 Time gap: 14 to 15.166666666667
+Olson Hall 146 Time gap: 9.1666666666667 to 10
+Olson Hall 146 Time gap: 10.166666666667 to 11
+Olson Hall 146 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 146 Time gap: 13.5 to 14.166666666667
+Olson Hall 144 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 144 Time gap: 13 to 15.166666666667
+Wellman Hall 119 Time gap: 10.166666666667 to 11
+Wellman Hall 119 Time gap: 11.166666666667 to 12.166666666667
+Ann E Pitzer Center 1010 Time gap: 9.1666666666667 to 11
+Roesler Hall 55 Time gap: 9.1666666666667 to 10
+Roesler Hall 55 Time gap: 10.166666666667 to 11
+Roesler Hall 55 Time gap: 11.166666666667 to 12.166666666667
+Hart Hall 1106 Time gap: 11.166666666667 to 14.166666666667
+Wickson Hall 1038 Time gap: 13 to 16.166666666667
+Wellman Hall 126 Time gap: 10.166666666667 to 11
+Wellman Hall 126 Time gap: 11.166666666667 to 12.166666666667
+Wellman Hall 126 Time gap: 14 to 16.166666666667
+Sciences Lab Building 2060 Time gap: 10.166666666667 to 13.166666666667
+Hunt 166 Time gap: 9.1666666666667 to 10
+Hunt 166 Time gap: 10.166666666667 to 11
+Wellman Hall 111 Time gap: 9.1666666666667 to 12.166666666667
+Everson Hall 126 Time gap: 11.166666666667 to 12.166666666667
+Veihmeyer Hall 212 Time gap: 8.1666666666667 to 09
+Veihmeyer Hall 212 Time gap: 9.1666666666667 to 10
+Veihmeyer Hall 212 Time gap: 10.166666666667 to 11
+Veihmeyer Hall 212 Time gap: 11.166666666667 to 12.166666666667
+Veihmeyer Hall 212 Time gap: 13.5 to 15.166666666667
+Hoagland Hall 168 Time gap: 9.1666666666667 to 11
+Hoagland Hall 168 Time gap: 11.166666666667 to 12.166666666667
+Hoagland Hall 168 Time gap: 13 to 14.166666666667
+Ghausi Hall 2030 Time gap: 8.1666666666667 to 09
+Ghausi Hall 2030 Time gap: 11.166666666667 to 12.166666666667
+Bainer Hall 1223 Time gap: 11.166666666667 to 13.166666666667
+Bainer Hall 1062 Time gap: 11.166666666667 to 12.166666666667
+Olson Hall 118 Time gap: 10.166666666667 to 11
+Olson Hall 118 Time gap: 11.166666666667 to 14.166666666667
+Kemper Hall 2110 Time gap: 12.166666666667 to 13.166666666667
+Kemper Hall 2155 Time gap: 13 to 14.166666666667
+Kemper Hall 2161 Time gap: 12.166666666667 to 14.166666666667
+Kemper Hall 2112 Time gap: 12.166666666667 to 14.166666666667
+Gladys Valley Hall 1010 Time gap: 11.166666666667 to 14.166666666667
+Carlson Health Sci Library 24 Time gap: 10.166666666667 to 11
+Storer Hall 1350 Time gap: 9.1666666666667 to 10
+Storer Hall 1350 Time gap: 10.166666666667 to 11
+Storer Hall 1350 Time gap: 11.166666666667 to 12.166666666667
+Physics Building 285 Time gap: 11.166666666667 to 14.166666666667
+Wellman Hall 201 Time gap: 10.166666666667 to 13.166666666667
+Wellman Hall 5 Time gap: 11.166666666667 to 12.166666666667
+Hutchison Hall 357 Time gap: 11.166666666667 to 14.166666666667
+Shields Library 90B Time gap: 10.166666666667 to 13.666666666667
+Hutchison Hall 75 Time gap: 12.166666666667 to 13.166666666667
+Music 115 Time gap: 10.166666666667 to 11
+Music 115 Time gap: 11.166666666667 to 12.166666666667
+Everson Hall 266 Time gap: 10.166666666667 to 11
+Music 105 Time gap: 10.166666666667 to 11
+Music 105 Time gap: 11.166666666667 to 13.166666666667
+Sciences Lab Building 2021 Time gap: 11.166666666667 to 13.166666666667
+Sciences Lab Building 2021 Time gap: 16 to 17.166666666667
+Sciences Lab Building 2011 Time gap: 10.166666666667 to 14.166666666667
+Young Hall 162 Time gap: 11.166666666667 to 13.166666666667
+Meyer Hall 1138 Time gap: 14 to 15.166666666667
+Earth & Physical Sciences 2319 Time gap: 12.166666666667 to 14.166666666667
+Earth & Physical Sciences 2322 Time gap: 12.166666666667 to 14.166666666667
+Earth & Physical Sciences 2307 Time gap: 12.166666666667 to 14.166666666667
+Earth & Physical Sciences 2317 Time gap: 12.166666666667 to 14.166666666667
+Earth & Physical Sciences 2312 Time gap: 12.166666666667 to 14.166666666667
+Roesler Hall 166 Time gap: 10.166666666667 to 11
+Roesler Hall 166 Time gap: 12.166666666667 to 13.166666666667
+Kerr Hall 451 Time gap: 10.166666666667 to 12.166666666667
+Olson Hall 21 Time gap: 9.1666666666667 to 10
+Olson Hall 21 Time gap: 11.166666666667 to 13.166666666667
+Olson Hall 1 Time gap: 9.1666666666667 to 10
+Olson Hall 1 Time gap: 10.166666666667 to 11
+Olson Hall 1 Time gap: 11.166666666667 to 13.166666666667
+Shields Library 90A Time gap: 11.166666666667 to 12.166666666667
