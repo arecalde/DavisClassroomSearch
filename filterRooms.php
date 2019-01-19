@@ -1,84 +1,100 @@
-<?php
-include 'connect.php';
-$sql     = "SELECT DISTINCT `fullHall` from classes";
-$query   = mysqli_query($connect, $sql);
-$classes = array();
-$count   = 0;
-while (($row = mysqli_fetch_assoc($query))) {
-    array_push($classes, $row['fullHall']);
+<html>
+  <head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+  <script src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>  
+    
+    <style>
+    html, body {
+    max-width: 100%;
+    overflow-x: hidden;
 }
-$time = 12;
+ 
+    
+    </style>
+  </head>
+<body id=''>
+  <center>
+  <input type="radio" name="week" value="M"> M
+  <input type="radio" name="week" value="T"> T
+  <input type="radio" name="week" value="W"> W
+  <input type="radio" name="week" value="R"> R
+  <input type="radio" name="week" value="F"> F
+  <br />
+    <input type='number' id='hour' placeholder='Hour' />:<input type='number' id='minute' placeholder='Minute' /><br />
+    <button onclick='grabClasses()'>
+      Search
+    </button>    
+    <button onclick='fillFields()'>
+      Now
+    </button>
+  </center>
+<script type='text/javascript'>
+    function fillFields(){
+      var radios = document.getElementsByName('week');
 
-$days = array(
-    "M",
-    "T",
-    "W",
-    "R",
-    "F"
-);
-/*
-foreach ($days as $day) {
-          $file        = $day . ".txt";
-        $fileContent = "";
-  //*/
-    $day = date("l");
-    if($day == "Thursday"){
-      $day = $day[0];
-    }else{
-      $day = $day[0];
-    }
-    foreach ($classes as $class) {
-
-        $sql         = "SELECT * FROM `classes` WHERE `days` LIKE '%%$day%%' AND `fullHall` LIKE '$class' ORDER BY `startTime` ASC";
-        $query       = mysqli_query($connect, $sql);
-        $prevTime    = 0;
-        
-        while (($row = mysqli_fetch_assoc($query))) {
-            $timegap = $row['startTime'] - $prevTime;
-            if ($timegap >= .5 && $prevTime != 0) {
-                $time = date('Hi');
-              $time = $time-300;
-              $hourTime = roundToTheNearestAnything($time, 100);
-              $minuteFactor = $time-$hourTime;
-              $minuteFactor = $minuteFactor/60;
-              $hourTime = $hourTime/100;
-                    $newTime = $hourTime+$minuteFactor;
-              if($newTime >= $prevTime && $newTime <= $row['startTime']){
-                $startSplit = explode(".", $prevTime);
-                $endSplit = explode(".", $row['startTime']);
-                if(count($startSplit) == 1){
-                  $start = $startSplit[0].":00";
+      for (var i = 0, length = radios.length; i < length; i++){
+        if (radios[i].value == <?php 
+                $day = date("l");
+                if($day == "Thursday"){
+                  $day = "R";
                 }else{
-                  $startSplit[1] = "0.".$startSplit[1];
-                  $startMinutes = (($startSplit[1])*60);
-                  $start = $startSplit[0].":".floor($startMinutes);
+                  $day = $day[0];
                 }
-                
-                if(count($endSplit) == 1){
-                  $end = $endSplit[0].":00";
-                }else{
-                  $endSplit[1] = "0.".$endSplit[1];
-                  $endMinutes = (($endSplit[1])*60);
-                  $end = $endSplit[0].":".floor($endMinutes);
-                }
-                
-                //echo $startSplit[1]."<br />";
-                echo "$class Time gap: $start to $end<br />";
-                //$fileContent = $fileContent . "$class Time gap: $prevTime to " . $row['startTime'] . "\n";
-              }
+              echo "'$day'";
+            
+            ?>){
+              radios[i].checked = true;
             }
-            $prevTime = $row['endTime'];  
-        }
-
-        
+      }
+      document.getElementById("hour").value = <?php echo date('H')-3; ?>;
+      document.getElementById("minute").value = <?php echo date('i'); ?>;
     }
-        /*file_put_contents($file, $fileContent);
-}//*/
+    function grabClasses(){
+      var radios = document.getElementsByName('week');
+      var day;
+      for (var i = 0, length = radios.length; i < length; i++){
+       if (radios[i].checked){day = radios[i].value;}
+      }
+      var time = document.getElementById("hour").value+""+document.getElementById("minute").value;
+      
+      $.ajax({
+        type: 'get',
+        url: "getRooms.php",
+        data: {
+            'day': day,
+            'time': time
+        },
+        cache: false,
+        success: function(data) {
+          document.getElementById("result").innerHTML = data;
+        }
+    });
+      
+    }
+</script>
+  
+    <script type='text/javascript'>
+					function showDiv(popup){
+            var popup  = document.getElementById(popup);
+						popup.style.display = 'block';
 
+					}
+					function hideDiv(popup){
+            var popup  = document.getElementById(popup);
+						popup.style.display = 'none';
 
-function roundToTheNearestAnything($value, $roundTo){
-    $mod = $value%$roundTo;
-    return $value+($mod<($roundTo/2)?-$mod:$roundTo-$mod);
-}
+					}
+				</script>
+  
+  
+<div id='result'>
+  
+  </div>  
 
-?>
+  <?php 
+  	
+  ?>
+ 
+  </body>
+</html>
